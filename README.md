@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Subham Rai
+-  Hi 👋, I’m Subham Rai
 -  Frontend developer
 - 🌱 I’m currently learning React
 - 📫 Reach me on subhamchamling28@gmail.com
