@@ -1,6 +1,6 @@
--  Hi 👋, I’m Subham Rai
--  I am a frontend developer, and pursuing BCA from Manipal University, Jaipur.
--  In 2020 I studied O'Level and learned about Programming, that's when I started with my BCA Program.
+-  Hi there!👋, I’m Subham Rai
+-  I'm a front-end developer with a passion for creating intuitive and visually appealing web experiences. With a strong background in HTML, CSS, and JavaScript, I have    experience building responsive websites and web applications, I am excited to continue learning and growing as a developer, and am always open to new opportunities      and challenges.
+-  I'm pursuing BCA from Manipal University, Jaipur.
 - 🌱 I’m currently learning React
 - 📫 Reach me on subhamchamling28@gmail.com
 
